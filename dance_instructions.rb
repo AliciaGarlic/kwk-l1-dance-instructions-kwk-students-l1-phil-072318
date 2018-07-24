@@ -1,3 +1,3 @@
 
 # Code your methods below
-puts ""
+puts "Plant legs far apart, bend knees slightly and keep posture loose"
